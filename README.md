@@ -33,6 +33,14 @@
   </a>
 </div>
 ## 🎉 Hacktoberfest 2025 Badge
+## 🎉 Hacktoberfest 2025 Badge
+
+<p align="center">
+  <a href="https://holopin.io/@29di">
+    <img src="https://holopin.me/29di" alt="@29di's Holopin board" />
+  </a>
+</p>
+
 
 [![An image of @29di's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/29di)](https://holopin.io/@29di)
 
